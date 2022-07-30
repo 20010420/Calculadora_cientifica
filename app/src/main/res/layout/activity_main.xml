@@ -8,18 +8,18 @@
 
     <TextView
         android:id="@+id/tv_dis"
-        android:layout_width="396dp"
-        android:layout_height="54dp"
-        android:layout_marginTop="16dp"
+        android:layout_width="402dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="204dp"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.384"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TableLayout
-        android:layout_width="406dp"
-        android:layout_height="638dp"
+        android:layout_width="399dp"
+        android:layout_height="458dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
